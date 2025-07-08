@@ -29,10 +29,10 @@ An extensible Java application that simulates an online bookstore system, built 
 
 ## 🧩 Code Structure
 src/
-├── Book.java # Abstract base class
-├── PaperBook.java # Physical book with stock
-├── EBook.java # Digital book with file type
-├── DemoBook.java # Sample book (not for sale)
-├── BookStore.java # Core inventory and purchase logic
-├── BookStoreTest.java # Main test class with sample scenario
+├── Book.java # Abstract base class </br>
+├── PaperBook.java # Physical book with stock </br>
+├── EBook.java # Digital book with file type </br>
+├── DemoBook.java # Sample book (not for sale) </br>
+├── BookStore.java # Core inventory and purchase logic </br>
+├── BookStoreTest.java # Main test class with sample scenario </br>
 ├── OutOfStockException.java # Custom exception (optional)
