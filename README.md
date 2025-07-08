@@ -26,13 +26,3 @@ An extensible Java application that simulates an online bookstore system, built 
 - **Tools**:  IntelliJ IDEA IDE
 
 ---
-
-## 🧩 Code Structure
-src/
-├── Book.java # Abstract base class </br>
-├── PaperBook.java # Physical book with stock </br>
-├── EBook.java # Digital book with file type </br>
-├── DemoBook.java # Sample book (not for sale) </br>
-├── BookStore.java # Core inventory and purchase logic </br>
-├── BookStoreTest.java # Main test class with sample scenario </br>
-├── OutOfStockException.java # Custom exception (optional)
